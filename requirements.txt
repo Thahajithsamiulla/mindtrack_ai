@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Flask-Login
+Flask-SQLAlchemy
+Flask-SocketIO
+python-dotenv
+google-generativeai
